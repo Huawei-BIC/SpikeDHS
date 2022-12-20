@@ -1,5 +1,5 @@
 # SpikeDHS
-This code is a demo of our NeurIPS 2022 paper "Differentiable hierarchical and surrogate gradient search for spiking neural networks".
+This code is a demo of our NeurIPS 2022 paper (Spotlight) "Differentiable hierarchical and surrogate gradient search for spiking neural networks".
 
 # Dataset
 To evaluate/retrain our SpikeDHS network, you will need to download the CIFAR10 dataset.
@@ -38,7 +38,7 @@ For training procedure, just execute: \
   `bash train.sh`
   
 # Retrain
-We only provide retrain code now. You can evaluate/retrain base on our searched architecture.
+Currently we only provide retrain code for CIFAR. You can evaluate/retrain on our searched architecture.
 
 Searched Architecture:
 ```
