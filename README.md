@@ -65,6 +65,9 @@ bash train.sh
 ```
 
 Our code is developed based on the code from papers "Hierarchical Neural Architecture Searchfor Deep Stereo Matching" and "Auto-DeepLab: Hierarchical Neural Architecture Search for Semantic Image Segmentation"
+code:  
+https://github.com/XuelianCheng/LEAStereo  
+https://github.com/NoamRosenberg/autodeeplab
 
 
 
