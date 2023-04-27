@@ -2,7 +2,7 @@
 This code is a demo of our NeurIPS 2022 paper (Spotlight) "Differentiable hierarchical and surrogate gradient search for spiking neural networks".
 
 # Dataset
-To evaluate/retrain our SpikeDHS network, you will need to download the CIFAR10/100 dataset.
+To proceed, please download the CIFAR10/100 dataset on your own.
 
 # Environment
 ```
