@@ -15,6 +15,7 @@ class LEAStereo(nn.Module):
         network_path_fea = np.array(network_path_fea)
         network_arch_fea = network_layer_to_space(network_path_fea)
 
+        # change your architecture here!
         cell_arch_fea = [[1, 1],
                             [0, 1],
                             [3, 2],
