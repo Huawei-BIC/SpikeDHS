@@ -27,6 +27,14 @@ conda install tensorboard tensorboardX
 conda install scipy scikit-image opencv
 ```
 
+# Spikingjelly Installation (ref: https://github.com/fangwei123456/spikingjelly)
+Our project can also be developed by SpikingJelly
+```shell
+git clone https://github.com/fangwei123456/spikingjelly.git
+cd spikingjelly
+python setup.py install
+```
+
 # Cofe for SpikeDHS
 We provide search, decode and retrain code for CIFAR10/100.
 
@@ -69,6 +77,6 @@ Our code is developed based on the code from papers "Hierarchical Neural Archite
 code:  
 https://github.com/XuelianCheng/LEAStereo  
 https://github.com/NoamRosenberg/autodeeplab
-
+https://github.com/fangwei123456/spikingjelly
 
 
