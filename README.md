@@ -27,8 +27,8 @@ conda install tensorboard tensorboardX
 conda install scipy scikit-image opencv
 ```
 
-# Spikingjelly Installation (ref: https://github.com/fangwei123456/spikingjelly)
-Our project can also be developed by SpikingJelly
+# Spikingjelly Installation 
+Our project can also be developed by SpikingJelly. (ref: https://github.com/fangwei123456/spikingjelly)
 ```shell
 git clone https://github.com/fangwei123456/spikingjelly.git
 cd spikingjelly
@@ -76,7 +76,7 @@ For retrain procedure, execute: \
 Our code is developed based on the code from papers "Hierarchical Neural Architecture Searchfor Deep Stereo Matching" and "Auto-DeepLab: Hierarchical Neural Architecture Search for Semantic Image Segmentation"  
 code:  
 https://github.com/XuelianCheng/LEAStereo  
-https://github.com/NoamRosenberg/autodeeplab
+https://github.com/NoamRosenberg/autodeeplab  
 https://github.com/fangwei123456/spikingjelly
 
 
