@@ -79,4 +79,5 @@ https://github.com/XuelianCheng/LEAStereo
 https://github.com/NoamRosenberg/autodeeplab  
 https://github.com/fangwei123456/spikingjelly
 
-
+## License
+This open-source project is not an official Huawei product, and Huawei is not expected to provide support for this project.
